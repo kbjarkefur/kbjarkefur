@@ -23,8 +23,7 @@
   </tr>
 </table>
 
-
-About me:
+### About me:
 - Developement data nerd - One day there will be a job with the title Development Data DataOps Officer and I want that job
 - I am expert at Stata knows how to code in Python, R and js as well. 
 - My job current job as Data Science Consultant at the World Bank involves supporting 100+ projects on how to set up workflows for anything between data collaction to data management to data analysis. It also includes trainign non-technical people that work with data in the data tools I suggest. I have trainined 500+ reserachers in Git/GitHub, data security and data privacy practices. 
