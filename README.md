@@ -18,6 +18,7 @@
       <ul>
         <li>Read my book published by World Bank Publications https://www.amazon.com/dp/1464816948</li>
         <li>Free pdf will be availible soon so only pay for it if you want a printed copy</li>
+        <li>In this book we follow all stages of data work in development research, but the book is useful to anyone working with developemnt data</li>
      </td>
   </tr>
 </table>
