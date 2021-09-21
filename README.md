@@ -14,9 +14,10 @@
     <td><img src="https://user-images.githubusercontent.com/15911801/120664091-a4718000-c458-11eb-84ca-6df6aa2942ae.png" alt="alt text" width="200"></td>
     <td>
       <ul>
-        <li>Read my book published by World Bank Publications https://www.amazon.com/dp/1464816948</li>
-        <li>Free pdf will be availible soon so only pay for it if you want a printed copy</li>
-        <li>In this book we follow all stages of data work in development research, but the book is useful to anyone working with developemnt data</li>
+        <li>Author of <b>Development Research in Practice - the DIME Data Handbook</b>. This book covers all stages of data work in development reserach with a focus on teaching the reader how to do high quality research in a credible, efficient, transparent and reproducible way.</li>
+        <li>Print version availibe for purchase. For exmaple at: https://www.amazon.com/dp/1464816948</li>
+        <li>Free pdf is availible for download at https://openknowledge.worldbank.org/handle/10986/35594</li>
+        <li>Free bookdown version is availible at https://worldbank.github.io/dime-data-handbook/</li>
      </td>
   </tr>
 </table>
